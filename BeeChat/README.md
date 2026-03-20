@@ -1,4 +1,8 @@
-# Crisis Mesh Messenger
+# BeeChat🐝
+
+# Это практически КОПИЯ тогового репозитория https://github.com/FundacjaHospicjum/crisis-mesh-messenger.
+# Я хочу полностью доработать этот репо для удобного использованеия в условиях отключения интернета и блока тг в России.
+# Ниже написан оффициальный ReadMe.
 
 A decentralized, infrastructure-free messaging application for crisis situations.
 
